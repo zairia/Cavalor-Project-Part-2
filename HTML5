@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en-US">
+	<head>
+		<!-- Meta setup -->
+		<meta charset="UTF-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+		<meta name="keywords" content="">
+		<meta name="decription" content="">
+		<meta name="designer" content="Firoz">
+		
+		<!-- Title -->
+		<title>welcome</title>
+		
+		<!-- Fav Icon -->
+		<link rel="icon" href="images/favicon.ico" />	
+
+		<!-- Include Bootstrap -->
+		<link rel="stylesheet" href="css/bootstrap.css" />
+		
+		<!-- Main StyleSheet -->
+		<link rel="stylesheet" href="style.css" />	
+
+		<!--  carousel -->
+		<link rel="stylesheet" href="css/flickity.min.css" />	
+		
+		<!-- Responsive CSS -->
+		<link rel="stylesheet" href="css/responsive.css" />	
+		
+	</head>
+	<body>
+		<!--[if lte IE 9]>
+            <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="https://browsehappy.com/">upgrade your browser</a> to improve your experience and security.</p>
+        <![endif]-->
+
+		<!-- header-area start -->	
+		<header class="header-area">
+			<div class="container">
+				<div class="row">
+					<div class="col-sm-3">
+						<div class="images">
+							<a href="index.html">
+								<img src="images/Attachment_1601264613.gif" alt="images not found" />
+							</a>
+						</div>
+					</div>							
+				</div>					
+			</div>
+		</header>
+
+	    <!-- product area start here-->
+	    <div class="product-area">
+	    	<div class="container">
+	    		<div class="row align-items-center">
+	    			<div class="col-md-12 col-lg-6">
+						<div class="main-carousel" >
+						   <div class="carousel-cell">
+						  	 <img src="images/Screenshot_1.png"  alt="" />
+						   </div>
+						   <div class="carousel-cell">
+						  	 <img src="images/Attachment_1601264613 (1).png"  alt="" />
+						   </div>
+						   <div class="carousel-cell">
+						  	  <img src="images/Screenshot_1.png"  alt="" />
+						   </div>
+						   <div class="carousel-cell">
+						  	 <img src="images/Attachment_1601264613 (1).png"  alt="" />
+						   </div>
+						  <div class="carousel-cell">
+						  	 <img src="images/Screenshot_1.png"  alt="" />
+						   </div>
+						   <div class="carousel-cell">
+						  	 <img src="images/Attachment_1601264613 (1).png"  alt="" />
+						   </div>					 
+						</div>
+	    			</div>
+	    			<div class="col-md-12 col-lg-6">
+	    				<div class="product-content">
+	    					<h2>Cavalor Superforce</h2>
+	    					<p><mark>FOR PURE POWER AND EXPLOSIVE EFFORTS -</mark><br> Cavalor <img src="https://sg.fiverrcdn.com/emoji-archive/emoji-64/00ae.png" class="cavalor" alt="" title="registered" /> Superforce is a top-quality sports feed specifically designed to supplement the daily ration of the very active horse during competition. Great for helping the horse perform short explosive efforts (e.g show¬jumping, racing sports, barrel racing, etc). To adequately perform these efforts, the horse’s body primarily uses starches and sugars derived from the forage and concentrates in its diet. Superforce contains an excep¬tional mix of balanced omega fatty acids, in addition to amino acids and an extensive range of vitamins, minerals and easily absorbable trace elements.</p>
+	    				</div>
+	    			</div>
+	    		</div>	
+	    	</div>
+	    </div>
+
+	    <!--  contact area start here -->
+	    <div class="contact-area">
+	    	<div class="container">
+	    		<div class="row">
+	    			<div class="col-md-8 col-lg-6 m-auto">
+		    			<div class="form-area">		    				
+							<form>
+								<h3>Contact Us</h3>							
+								<input type="text" placeholder="Your Name" />
+								<input type="text" placeholder="Phone Number" />
+								<input type="email" placeholder="Email Address:" required />	
+								<input type="submit" value="submit" />
+							</form>
+	    			    </div>
+		    	    </div>
+	    	    </div>
+	        </div>
+	    </div>    
+
+	    <!-- copyright area start here -->
+	    <div class="copyright-area">
+	    	<p>Copyright &copy; All right reserved by 2020</p>
+	    </div>
+		
+		<!-- Main jQuery -->
+		<script src="js/jquery-3.4.1.min.js"></script>		
+
+		<!-- Bootstrap Propper jQuery -->
+		<script src="js/popper.js"></script>
+		
+		<!-- Bootstrap jQuery -->
+		<script src="js/bootstrap.js"></script>
+
+		<!-- Fontawesome Script -->
+		<script src="https://kit.fontawesome.com/7749c9f08a.js"></script>
+		
+		<!-- carousel -->
+		<script src="js/flickity.pkgd.js"></script>
+
+		<script src="js/flickity.pkgd.min.js"></script>
+
+		<!-- Custom jQuery -->
+		<script src="js/scripts.js"></script>
+		
+		<!-- Scroll-Top button -->
+		<a href="#" class="scrolltotop"><i class="fas fa-angle-up"></i></a>
+		
+	</body>
